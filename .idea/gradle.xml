@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/acronym" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/acronym" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/annalyns-infiltration" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/annalyns-infiltration" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/bird-watcher" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/bird-watcher" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/blackjack" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/blackjack" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/cars-assemble" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/cars-assemble" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/darts" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/darts" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/difference-of-squares" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/difference-of-squares" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/isbn-verifier" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/isbn-verifier" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/isogram" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/isogram" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/karls-languages" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/karls-languages" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/lasagna" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/lasagna" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/log-levels" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/log-levels" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/micro-blog" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/micro-blog" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/pig-latin" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/pig-latin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/proverb" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/proverb" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/queen-attack" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/queen-attack" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/raindrops" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/raindrops" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/resistor-color" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/resistor-color" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/resistor-color-duo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/resistor-color-duo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/roman-numerals" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/roman-numerals" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/java/squeaky-clean" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/java/squeaky-clean" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/java/acronym" />
+    <file type="web" url="file://$PROJECT_DIR$/java/annalyns-infiltration" />
+    <file type="web" url="file://$PROJECT_DIR$/java/bird-watcher" />
+    <file type="web" url="file://$PROJECT_DIR$/java/blackjack" />
+    <file type="web" url="file://$PROJECT_DIR$/java/cars-assemble" />
+    <file type="web" url="file://$PROJECT_DIR$/java/darts" />
+    <file type="web" url="file://$PROJECT_DIR$/java/difference-of-squares" />
+    <file type="web" url="file://$PROJECT_DIR$/java/isbn-verifier" />
+    <file type="web" url="file://$PROJECT_DIR$/java/isogram" />
+    <file type="web" url="file://$PROJECT_DIR$/java/karls-languages" />
+    <file type="web" url="file://$PROJECT_DIR$/java/lasagna" />
+    <file type="web" url="file://$PROJECT_DIR$/java/log-levels" />
+    <file type="web" url="file://$PROJECT_DIR$/java/micro-blog" />
+    <file type="web" url="file://$PROJECT_DIR$/java/pig-latin" />
+    <file type="web" url="file://$PROJECT_DIR$/java/proverb" />
+    <file type="web" url="file://$PROJECT_DIR$/java/queen-attack" />
+    <file type="web" url="file://$PROJECT_DIR$/java/raindrops" />
+    <file type="web" url="file://$PROJECT_DIR$/java/resistor-color" />
+    <file type="web" url="file://$PROJECT_DIR$/java/resistor-color-duo" />
+    <file type="web" url="file://$PROJECT_DIR$/java/roman-numerals" />
+    <file type="web" url="file://$PROJECT_DIR$/java/squeaky-clean" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
