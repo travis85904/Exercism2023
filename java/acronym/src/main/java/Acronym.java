@@ -1,6 +1,5 @@
 final class Acronym {
     StringBuilder sb = new StringBuilder();
-
     Acronym(String phrase) {
         phrase = phrase.toUpperCase().replaceAll("[^A-Z- ]", "");
         String[] words = phrase.split("[ -]");
