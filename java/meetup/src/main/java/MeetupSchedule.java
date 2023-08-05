@@ -6,3 +6,4 @@ enum MeetupSchedule {
     LAST,
     TEENTH
 }
+
