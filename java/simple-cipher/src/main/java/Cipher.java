@@ -20,16 +20,16 @@ public class Cipher {
         byte[] bytes = plainText.getBytes();
         for (int i = 0; i < bytes.length; i++) {
             try {
-                modify(bytes, i);
+                encodeModify(bytes, i);
             } catch (StringIndexOutOfBoundsException e) {
                 key += key;
-                modify(bytes, i);
+                encodeModify(bytes, i);
             }
         }
         return new String(bytes);
     }
 
-    private void modify(byte[] bytes, int i) {
+    private void encodeModify(byte[] bytes, int i) {
         int value = offsetMap.get(key.substring(i, i + 1));
         if (bytes[i] + value > 122)
             bytes[i] += (byte) (value - 26);
@@ -39,12 +39,22 @@ public class Cipher {
     public String decode(String cipherText) {
         byte[] bytes = cipherText.getBytes();
         for (int i = bytes.length - 1; i >= 0; i--) {
-            int value = offsetMap.get(key.substring(i, i + 1));
-            if (bytes[i] - value < 97)
-                bytes[i] -= (byte) (value - 26);
-            else bytes[i] -= (byte) value;
+
+            try {
+                decodeModify(bytes, i);
+            } catch (StringIndexOutOfBoundsException e){
+                key += key;
+                decodeModify(bytes, i);
+            }
         }
         return new String(bytes);
+    }
+
+    private void decodeModify(byte[] bytes, int i){
+        int value = offsetMap.get(key.substring(i, i + 1));
+        if (bytes[i] - value < 97)
+            bytes[i] -= (byte) (value - 26);
+        else bytes[i] -= (byte) value;
     }
 
     private static Map<String, Integer> createMap() {
